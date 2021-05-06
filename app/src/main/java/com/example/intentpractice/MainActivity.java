@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String validUsername = "bob";
-                String validPassword = "abc";
+                String validPassword = "abcd";
 
                 String un = username.getText() + "";
                 String pass = password.getText().toString();
